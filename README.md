@@ -38,6 +38,10 @@ Ciphertext (ASCII, Hex, Decimal)
 
 Decryption process and final plaintext
 
+---------------------------
+Example
+---------------------------
+
 Enter plaintext: HELLODES
 Enter key (must be 8 characters): MYSECRET
 
