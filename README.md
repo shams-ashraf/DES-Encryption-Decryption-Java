@@ -46,10 +46,13 @@ Example
 ---------------------------
 
 Enter plaintext: HELLODES
+
 Enter key (must be 8 characters): MYSECRET
 
 Original plaintext: "HELLODES" (8 chars)
+
 Processed plaintext: "HELLODES" (8 chars)
+
 Number of blocks: 1
 
 ---------------------------
