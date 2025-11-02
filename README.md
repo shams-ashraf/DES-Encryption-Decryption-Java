@@ -22,7 +22,6 @@ This project is a complete Java implementation of the **Data Encryption Standard
 
 ## Usage
 1. Compile and run the program:
-```bash
 javac DES.java
 java DES
 Enter the plaintext to encrypt.
@@ -40,8 +39,6 @@ Ciphertext (ASCII, Hex, Decimal)
 Decryption process and final plaintext
 
 Example
-vbnet
-Copy code
 Enter plaintext: HELLODES
 Enter key (must be 8 characters): MYSECRET
 
@@ -59,8 +56,6 @@ Ciphertext (Decimal): 210 245 165 223 205 191 216 233
 DECRYPTION PROCESS
 ...
 Decrypted text: "HELLODES"
-Notes
-The key must be exactly 8 characters.
 
 Plaintext is padded with # if its length is not a multiple of 8.
 
